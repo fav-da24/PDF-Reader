@@ -75,4 +75,4 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## Contact
 
-For any questions or support, please contact [your-email@example.com](mailto:fav.da24@gmail.com).
+For any questions or support, please contact [fav.da24@gmail.com](mailto:fav.da24@gmail.com).
